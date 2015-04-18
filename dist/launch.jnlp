@@ -1,0 +1,20 @@
+<!--xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp codebase="http://fioswepcalc.webs.com/dist/" href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>FiOS WEP Calculator</title>
+        <vendor>Dylan Taylor</vendor>
+        <homepage href=""/>
+        <description>An application for calculating the default WEP key of a 5 character Verizon FiOS access point.</description>
+        <description kind="short">FiOS WEP Calculator</description>
+    <offline-allowed/>
+</information>
+    <resources>
+<j2se version="1.5+"/>
+<jar eager="true" href="FiOS WEP Calculator.jar" main="true"/>
+    <jar href="lib/appframework-1.0.3.jar"/>
+<jar href="lib/swing-worker-1.1.jar"/>
+<jar href="lib/beansbinding-1.2.1.jar"/>
+</resources>
+    <application-desc main-class="fioswepcalculator.FiOSWEPCalculatorApp">
+    </application-desc>
+</jnlp>

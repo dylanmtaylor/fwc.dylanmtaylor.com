@@ -1,0 +1,1 @@
+<script type="text/javascript"> var admob_vars = { pubid: 'a14ce8b99f60718',  bgcolor: '000000',  text: '00EFAC', ama: false,  test: false }; </script><script type="text/javascript" src="http://mmv.admob.com/static/iphone/iadmob.js"></script>
