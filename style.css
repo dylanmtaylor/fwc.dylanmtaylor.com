@@ -16,10 +16,10 @@ a:hover{text-decoration:underline;}
 #mainnavwrap ul{background:transparent;list-style-type:none;margin:0;padding:0;}
 #mainnavwrap li{display:inline;margin:0 15px 0 0;}
 /* Content */#bigcontain{width:760px;float:left;}
-.paragraph{background:#242424; border-bottom:1px solid #000;overflow:hidden;padding:15px 20px 10px;}
+.paragraph{background:#242424 url('bg-p.gif') repeat-x top left;border-bottom:1px solid #000;overflow:hidden;padding:15px 20px 10px;}
 .title{font:18px verdana;color:#fff;margin:0 0 10px;}
 #bigcontain ul,#bigcontain ol,#bigcontain dd{margin-left:2em;}
 .text{margin-bottom:10px;}
 /* Footer */.clears{clear:both;}
-#footer{font:normal 10px verdana, sans-serif;background:#242424;color:#999;clear:both;margin:0;padding:11px 0 1px;}
+#footer{font:normal 10px verdana, sans-serif;background:#242424 url('bg-p.gif') repeat-x top left;color:#999;clear:both;margin:0;padding:11px 0 1px;}
 .footertext{background:#161616;border-bottom:1px solid #000;border-top:1px solid #000;margin:0;padding:6px 0 6px 20px;}
