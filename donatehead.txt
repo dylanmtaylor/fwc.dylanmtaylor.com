@@ -1,1 +1,1 @@
-<div style="text-align:center;"><strong></strong></div>
+<!--donationhead.txt--><!--<div style="text-align:center;"><strong></strong></div>-->
