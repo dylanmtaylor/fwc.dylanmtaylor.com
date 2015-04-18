@@ -9,8 +9,6 @@
       <meta name="description" content="Download the latest version of the Verizon FiOS WEP Key Calculator for free, or instantly calculate a default FiOS WEP key online" />
       <meta name="keywords" content="free online FiOS WEP key calculator online javascript java download application dylan taylor verizon router password" />
       <link rel="stylesheet" href="style.css" media="screen" type="text/css"/>
-      <?php 
-         #<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" /> ?> 
       <link rel="shortcut icon" type="image/png" href="/favicon.png" />
       <script type="text/javascript" src="calculate.js"></script> 
    </head>
