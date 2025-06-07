@@ -20,12 +20,6 @@
          var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-19789740-2']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); 
          //]]> 
       </script> 
-      <div id="advertisement">
-         <script type="text/javascript"> //<![CDATA[
-            google_ad_client = "pub-6708363208205267"; /* FiOS WEP Calculator Link Unit */ google_ad_slot = "8497723290"; google_ad_width = 728; google_ad_height = 15; 
-            //]]> 
-         </script>  <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script> 
-      </div>
       <div id="container">
          <div id="head">
             <h1 id="title"><a href="http://fwc.dylanmtaylor.com/" id="titlelink" name="titlelink">FiOS WEP Key Calculator</a></h1>
@@ -75,12 +69,6 @@
             <p id="foottext" class="footertext">Copyright &copy;2009-<?php
                date_default_timezone_set('America/New_York'); echo date("Y"); ?>, Dylan Taylor</p>
          </div>
-      </div>
-      <div style="text-align:center;">
-         <br><script type="text/javascript"> //<![CDATA[
-            google_ad_client = "pub-6708363208205267"; /* FiOS WEP Calculator Footer */ google_ad_slot = "3464903188"; google_ad_width = 728; google_ad_height = 90; 
-            //]]> 
-         </script><ins id="aswift_1_expand" style="display:inline-table;border:none;height:90px;margin:0;padding:0;position:relative;visibility:visible;width:728px;background-color:transparent"><ins id="aswift_1_anchor" style="display:block;border:none;height:90px;margin:0;padding:0;position:relative;visibility:visible;width:728px;background-color:transparent"><iframe width="728" height="90" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_1" name="aswift_1" style="left:0;position:absolute;top:0;"></iframe></ins></ins> 
       </div>
    </body>
 </html>
