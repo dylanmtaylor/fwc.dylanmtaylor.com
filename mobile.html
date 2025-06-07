@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FiOS WEP Calculator - Mobile</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/calculate.js" defer></script>
+    <script src="js/rotate.js" defer></script>
+</head>
+<body>
+    <div id="content">
+        <h2>FiOS WEP Calculator</h2>
+        <h3>Calculate WEP Key</h3>
+        <form id="form" action="">
+            <label for="essid">5 Character FiOS ESSID:</label>
+            <input type="text" id="essid" name="essid" maxlength="5" required>
+            <br>
+            <input type="button" value="Calculate Key" onclick="calcit(form)">
+            <input type="reset" value="Clear">
+            <br><br>
+            <label>Calculated WEP Keys:</label>
+            <input type="text" name="key" maxlength="16" readonly>
+            <br>
+            <input type="text" name="key2" maxlength="16" readonly>
+        </form>
+        <h5>Copyright &copy;2009-<span id="currentYear"></span>, Dylan Taylor</h5>
+    </div>
+    <script>
+        document.getElementById('currentYear').textContent = new Date().getFullYear();
+    </script>
+</body>
+</html>
